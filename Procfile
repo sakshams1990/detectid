@@ -1,1 +1,1 @@
-web: gunicorn greeting:app
+web: gunicorn yolov5_flask:app
